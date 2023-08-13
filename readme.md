@@ -11,6 +11,7 @@
 
 2. [Portfolio Projects](#portfolio-projects)
    - [The Portfolio Website](#the-portfolio-website)
+   - [Misc Projects](#misc-projects)
    - [The Pig Game](#the-pig-game)
 
 ## Document Introduction
@@ -65,6 +66,16 @@ Much like the other projects in my portfolio this is one that shall be constantl
 Here is the [Website](https://shaander.github.io) up and running in it's current state. For the actual hosting i had to strip away the flask server infrastructure but works the same
 
 For more information and how the project works please see the readme inside the project itself.
+
+[Back To Top](#Portfolio)
+
+### [Misc Projects](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+
+#### Original Inspiration
+
+As I grew my taste in and desire to program more in javascript I decided to take on small scale projects to boost my practice and knowledge of the language, some of these are exceedingly simple, others a tad more complex. Overall however I wasn't sure if I wanted to create a seperate portfolio entry for them or stick them here in the misc folder. 
+
+For now this is a link to a repo containing my older portfolio projects as well as misc things I work on for fun or to practice. Enjoy!
 
 [Back To Top](#Portfolio)
 
