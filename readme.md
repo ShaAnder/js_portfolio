@@ -93,3 +93,21 @@ Originally this was designed to be a basic follow along project, however i decid
 and more noticable UI. As well as this i did some research into setting up player selection functions among other features to make it feel a lot more user friendly.
 
 [Back To Top](#Portfolio)
+
+[Back To Top](#Portfolio)
+
+### [The Bankist App](https://github.com/ShaAnder/bankist)
+
+#### Original Inspiration
+
+This project was one from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+
+#### Brief Description
+
+The project is a gui based banking app with a backend that holds customer data
+
+Originally this was designed to be a contained mock app, that utilized hard coded data to simulate a minimalist banking app, however upon completion I decided I wanted to continue working and turn it
+into a fully realized mock app, for portfolio purposes. The current iteration of the app is that of which was found in the project, the next step is to create a more refined code base and to get a working 
+database structured backend so people can actually sign up to and use the "app"
+
+[Back To Top](#Portfolio)
