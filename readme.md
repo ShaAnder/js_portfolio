@@ -13,6 +13,7 @@
    - [The Portfolio Website](#the-portfolio-website)
    - [Misc Projects](#misc-projects)
    - [The Pig Game](#the-pig-game)
+   - [Bankist App](#bankist-app)
 
 ## Document Introduction
 
