@@ -14,7 +14,7 @@
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Complete Javascript Course 2023](#complete-javascript-course-2023)
       - [Ultimate React Course 2023](#ultimate-react-course-2023)
-      - [NodeJS_Complete_Course_2023](#nodejs-complete-course-2023)
+      - [NodeJS Complete Course 2023](#nodejs-complete-course-2023)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
 
 
