@@ -78,8 +78,6 @@ and more noticable UI. As well as this i did some research into setting up playe
 
 [Back To Top](#Portfolio)
 
-[Back To Top](#Portfolio)
-
 ### [The Bankist App](https://github.com/ShaAnder/bankist)
 
 This project was one from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
