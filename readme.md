@@ -10,10 +10,13 @@
    - [Overall Section Layout](#overall-section-layout)
 
 2. [Portfolio Projects](#portfolio-projects)
-   - [The Portfolio Website](#the-portfolio-website)
-   - [Misc Projects](#misc-projects)
-   - [The Pig Game](#the-pig-game)
-   - [Bankist App](#bankist-app)
+   - [SECTION 1 - MISC PROJECTS](#section-1---misc-projects)
+   - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
+      - [Complete Javascript Course 2023](#complete-javascript-course-2023)
+      - [Ultimate React Course 2023](#ultimate-react-course-2023)
+      - [NodeJS_Complete_Course_2023](#nodejs-complete-course-2023)
+   - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
+
 
 ## Document Introduction
 
@@ -57,37 +60,38 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ## Portfolio Projects
 
-### [SECTION 1 - Misc Projects](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+### SECTION 1 - Misc Projects
 
-As I grew my taste in and desire to program more in javascript I decided to take on small scale projects to boost my practice and knowledge of the language, some of these are exceedingly simple, others a tad more complex. Overall however I wasn't sure if I wanted to create a seperate portfolio entry for them or stick them here in the misc folder. 
+Directory leading to Small and simple programs and scripts I have written in my free time, these range from stop watches to calculators or even just small scripts to make code easier to setup / use!
 
-For now this is a link to a repo containing my older portfolio projects as well as misc things I work on for fun or to practice. Enjoy!
+#### [MISC PROJECTS](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+
+### SECTION 2 - Course Projects 
+
+These are projects and apps from the course work I have completed, while I have completed course on a myriad of topics including python php and HTML / CSS ect this is primarily contained
+to my JavaScript course work and projects. 
+
+As stated above I tried to add a twist to each project by learning something new and implementing it in the project to make it more my own and unique, or just to reinforce what I am learning, 
+you can find details of this in the repositories for each course!
+
+#### [Complete Javascript Course 2023](https://github.com/ShaAnder/complete_javascript_course_2023)
+
+This course taught the fundamentals of javascript including deep dives into the nature of how the language works, the comp sci behind it and more
+
+#### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
+
+Building upon my knowledge of JS with one of the worlds most popular framework libraries the ultimate react course was used to up my JS skills to the next level
+
+#### [NodeJS_Complete_Course_2023](https://github.com/ShaAnder/nodeJS_complete_course_2023)
+
+Yet another course by Jonas Schmedtmann to reinforce my knowledge of JS, I wanted to primarily focus on webdev, but having a fundamental knowledge on the back end is, I think, essential
+to becoming a better programmer as it helps my build better code on both sides of the fence
 
 [Back To Top](#Portfolio)
 
-### [The Pig Game](https://github.com/ShaAnder/Pig_Dice_Game)
+### SECTION 3 - Portfolio Works
 
-This project was one of the first from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
-
-#### Brief Description
-
-This project is a simple GUI based dice game, it operates fundamentally through dom manipulation, with javascript powering it in the background.
-
-Originally this was designed to be a basic follow along project, however i decided to use it as a learning opportunity and broke down / reverse engineered the html and css to create a warmer
-and more noticable UI. As well as this i did some research into setting up player selection functions among other features to make it feel a lot more user friendly.
-
-[Back To Top](#Portfolio)
-
-### [The Bankist App](https://github.com/ShaAnder/bankist)
-
-This project was one from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
-
-#### Brief Description
-
-The project is a gui based banking app with a backend that holds customer data
-
-Originally this was designed to be a contained mock app, that utilized hard coded data to simulate a minimalist banking app, however upon completion I decided I wanted to continue working and turn it
-into a fully realized mock app, for portfolio purposes. The current iteration of the app is that of which was found in the project, the next step is to create a more refined code base and to get a working 
-database structured backend so people can actually sign up to and use the "app"
+And now we reach the next part of the portfolio, this is the really heavy lifter part of this portfolio, as it showcases works That I have done alone or with a group that is not part of any
+course, completely designed from the ground up and executed to showcase the talents I have accured to this point.
 
 [Back To Top](#Portfolio)
