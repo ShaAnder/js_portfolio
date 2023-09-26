@@ -34,8 +34,6 @@ B // An idea I have acquired or something personal I have decided to build
 <br></br>
 C // Group project or jam I have taken part in.
 <br></br>
-As a result while I am mainly proficient in python and Js there will be projects or code written here that is not strictly in that. As of writing this I am proficient in
-Python, HTML, CSS, JS and C++
 
 ### Copywrite / Licensing
 
@@ -43,9 +41,17 @@ All code showcased in this portfolio (unless specified under the actual section 
 
 ### Overall Section Layout
 
-To make navigating this easier I have included quick jump anchor tags for every section as well as creating this small section for easier browsing.
-Each section (or project) will be setup like so:
-Project Name (linkable to the repository) - Course / Place the project idea came from - Brief project description (a more indepth one can be found in the project repository)
+TO make the navigation easier I have created a table of contents for quick and easy movement, as well as this the projects will be broken down into three Sections
+
+Section 1 - Misc Projects, these are all the projects / apps / scripts I have built that are designed to be small or standalone things and not really deserving of a 
+huge section on the portfolio, clicking the link will take you to a seperate readme / repo with all of them included
+
+Section 2 - Course projects, these are all projects I have built as part of a course with the aim of completing said course; with a twist, for each project I set to
+learn something new be it big or small instead of doing follow alongs, for example in [The Bankist App](https://github.com/ShaAnder/bankist) I took the time to learn how to build
+a back end database with node JS and implement ACTUAL logins instead of using hardcoded data or in the MAPTY app I spent time learning how to properly do code refactoring and imports / exports
+
+Section 3 - Solo / group apps. This is the main section of the portfolio, and where I will dedicate most of my time, it's where I am to create and build standalone programs and apps to 
+showcase that I am job ready, They will be split between raw JS / React JS / Node JS and three JS. 
 
 [Back To Top](#Portfolio)
 
