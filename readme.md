@@ -57,26 +57,7 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ## Portfolio Projects
 
-### [The Portfolio Website](https://github.com/ShaAnder/Portfolio_Website)
-
-#### Original Inspiration
-
-This project was one of the first from the [Udemy 100 Days Of Python Bootcamp by The App Brewary](https://www.udemy.com/course/100-days-of-code)
-
-#### Brief Description
-
-This project is a website designed from the ground up to be a professional viewing into me and my work. While most of my code will be stored on github there will be dedicated sections
-to more major projects showcased on the website
-
-Much like the other projects in my portfolio this is one that shall be constantly evolving and being updated so it's advised to check back and see the changes that are made!
-
-Here is the [Website](https://shaander.github.io) up and running in it's current state. For the actual hosting i had to strip away the flask server infrastructure but works the same
-
-For more information and how the project works please see the readme inside the project itself.
-
-[Back To Top](#Portfolio)
-
-### [Misc Projects](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+### [SECTION 1 - Misc Projects](https://github.com/ShaAnder/Misc_Portfolio_Projects)
 
 #### Original Inspiration
 
