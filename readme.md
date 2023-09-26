@@ -59,8 +59,6 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 ### [SECTION 1 - Misc Projects](https://github.com/ShaAnder/Misc_Portfolio_Projects)
 
-#### Original Inspiration
-
 As I grew my taste in and desire to program more in javascript I decided to take on small scale projects to boost my practice and knowledge of the language, some of these are exceedingly simple, others a tad more complex. Overall however I wasn't sure if I wanted to create a seperate portfolio entry for them or stick them here in the misc folder. 
 
 For now this is a link to a repo containing my older portfolio projects as well as misc things I work on for fun or to practice. Enjoy!
@@ -68,8 +66,6 @@ For now this is a link to a repo containing my older portfolio projects as well 
 [Back To Top](#Portfolio)
 
 ### [The Pig Game](https://github.com/ShaAnder/Pig_Dice_Game)
-
-#### Original Inspiration
 
 This project was one of the first from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
@@ -85,8 +81,6 @@ and more noticable UI. As well as this i did some research into setting up playe
 [Back To Top](#Portfolio)
 
 ### [The Bankist App](https://github.com/ShaAnder/bankist)
-
-#### Original Inspiration
 
 This project was one from the [Udemy, The Javascript Complete Course by Jonas Scmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 
