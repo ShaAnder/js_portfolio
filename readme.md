@@ -71,12 +71,19 @@ Directory leading to Small and simple programs and scripts I have written in my 
 These are projects and apps from the course work I have completed, while I have completed course on a myriad of topics including python php and HTML / CSS ect this is primarily contained
 to my JavaScript course work and projects. 
 
-As stated above I tried to add a twist to each project by learning something new and implementing it in the project to make it more my own and unique, or just to reinforce what I am learning, 
-you can find details of this in the repositories for each course!
+As stated above I tried to add a twist to each project by learning something new and implementing it in the project to make it more my own and unique, or just to reinforce what I am learning,
+the full details and information about this can be found in the small writeup i provide with each project. As i work more on these I shall be updating information / code, as while they are
+initially course projects, they all have the potential for becoming real world applications and I would like to at least progress them to a dummy application stage!
 
 #### [Complete Javascript Course 2023](https://github.com/ShaAnder/complete_javascript_course_2023)
 
-This course taught the fundamentals of javascript including deep dives into the nature of how the language works, the comp sci behind it and more
+##### [Pig Game](https://github.com/ShaAnder/pig-game)
+
+##### [Bankist](https://github.com/ShaAnder/bankist)
+
+##### [Mapty](https://github.com/ShaAnder/mapty)
+
+##### [Forkify](https://github.com/ShaAnder/forkify)
 
 #### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
 
