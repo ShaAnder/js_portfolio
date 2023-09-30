@@ -79,11 +79,19 @@ initially course projects, they all have the potential for becoming real world a
 
 ##### [Pig Game](https://github.com/ShaAnder/pig-game)
 
+A simple JS browser based dice playing game
+
 ##### [Bankist](https://github.com/ShaAnder/bankist)
+
+Mock banking application / website
 
 ##### [Mapty](https://github.com/ShaAnder/mapty)
 
+Mock website for tracking workouts on a map
+
 ##### [Forkify](https://github.com/ShaAnder/forkify)
+
+Application 
 
 #### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
 
