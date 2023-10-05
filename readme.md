@@ -77,19 +77,19 @@ initially course projects, they all have the potential for becoming real world a
 
 ### [Complete Javascript Course 2023](https://github.com/ShaAnder/complete_javascript_course_2023)
 
-### [Pig Game](https://github.com/ShaAnder/pig-game)
+## [Pig Game](https://github.com/ShaAnder/pig-game)
 
 A simple JS browser based dice playing game
 
-### [Bankist](https://github.com/ShaAnder/bankist)
+## [Bankist](https://github.com/ShaAnder/bankist)
 
 Mock banking application / website
 
-### [Mapty](https://github.com/ShaAnder/mapty)
+## [Mapty](https://github.com/ShaAnder/mapty)
 
 Mock website for tracking workouts on a map
 
-### [Forkify](https://github.com/ShaAnder/forkify)
+## [Forkify](https://github.com/ShaAnder/forkify)
 
 ![image](https://github.com/ShaAnder/js_portfolio/assets/129494996/dc70f37f-76e8-4b41-92e1-863fd44bc6e0)
 
