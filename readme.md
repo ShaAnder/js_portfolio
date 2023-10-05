@@ -75,7 +75,7 @@ As stated above I tried to add a twist to each project by learning something new
 the full details and information about this can be found in the small writeup i provide with each project. As i work more on these I shall be updating information / code, as while they are
 initially course projects, they all have the potential for becoming real world applications and I would like to at least progress them to a dummy application stage!
 
-### [Complete Javascript Course 2023](https://github.com/ShaAnder/complete_javascript_course_2023)
+### Complete Javascript Course 2023
 
 ### [Pig Game](https://github.com/ShaAnder/pig-game)
 
@@ -95,11 +95,13 @@ A small recipe tracking application, users can search for, track and add recipes
 
 ![image](https://github.com/ShaAnder/js_portfolio/assets/129494996/c2fd8be7-83f6-4c45-968f-8b60210ceed6)
 
-### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
+[Back To Top](#Portfolio)
+
+### Ultimate React Course 2023
 
 Building upon my knowledge of JS with one of the worlds most popular framework libraries the ultimate react course was used to up my JS skills to the next level
 
-### [NodeJS_Complete_Course_2023](https://github.com/ShaAnder/nodeJS_complete_course_2023)
+### NodeJS_Complete_Course_2023
 
 Yet another course by Jonas Schmedtmann to reinforce my knowledge of JS, I wanted to primarily focus on webdev, but having a fundamental knowledge on the back end is, I think, essential
 to becoming a better programmer as it helps my build better code on both sides of the fence
