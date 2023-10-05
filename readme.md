@@ -91,7 +91,9 @@ Mock website for tracking workouts on a map
 
 ##### [Forkify](https://github.com/ShaAnder/forkify)
 
-Application 
+![image](https://github.com/ShaAnder/js_portfolio/assets/129494996/dc70f37f-76e8-4b41-92e1-863fd44bc6e0)
+
+A small recipe tracking application, users can search for, track and add recipes as well as being able to calculate ingredients based on serving amounts and more!
 
 #### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
 
