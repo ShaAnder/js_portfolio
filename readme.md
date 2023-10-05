@@ -95,11 +95,11 @@ A small recipe tracking application, users can search for, track and add recipes
 
 ![image](https://github.com/ShaAnder/js_portfolio/assets/129494996/c2fd8be7-83f6-4c45-968f-8b60210ceed6)
 
-#### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
+### [Ultimate React Course 2023](https://github.com/ShaAnder/ultimate_react_course_2023)
 
 Building upon my knowledge of JS with one of the worlds most popular framework libraries the ultimate react course was used to up my JS skills to the next level
 
-#### [NodeJS_Complete_Course_2023](https://github.com/ShaAnder/nodeJS_complete_course_2023)
+### [NodeJS_Complete_Course_2023](https://github.com/ShaAnder/nodeJS_complete_course_2023)
 
 Yet another course by Jonas Schmedtmann to reinforce my knowledge of JS, I wanted to primarily focus on webdev, but having a fundamental knowledge on the back end is, I think, essential
 to becoming a better programmer as it helps my build better code on both sides of the fence
