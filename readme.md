@@ -13,8 +13,6 @@
    - [SECTION 1 - MISC PROJECTS](#section-1---misc-projects)
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Complete Javascript Course 2023](#complete-javascript-course-2023)
-      - [Ultimate React Course 2023](#ultimate-react-course-2023)
-      - [NodeJS Complete Course 2023](#nodejs-complete-course-2023)
    - [SECTION 3 - PORTFOLIO WORKS](#section-3---portfolio-works)
 
 
@@ -50,8 +48,7 @@ Section 1 - Misc Projects, these are all the projects / apps / scripts I have bu
 huge section on the portfolio, clicking the link will take you to a seperate readme / repo with all of them included
 
 Section 2 - Course projects, these are all projects I have built as part of a course with the aim of completing said course; with a twist, for each project I set to
-learn something new be it big or small instead of doing follow alongs, for example in [The Bankist App](https://github.com/ShaAnder/bankist) I took the time to learn how to build
-a back end database with node JS and implement ACTUAL logins instead of using hardcoded data or in the MAPTY app I spent time learning how to properly do code refactoring and imports / exports
+learn something new be it big or small instead of doing follow alongs.
 
 Section 3 - Solo / group apps. This is the main section of the portfolio, and where I will dedicate most of my time, it's where I am to create and build standalone programs and apps to 
 showcase that I am job ready, They will be split between raw JS / React JS / Node JS and three JS. 
@@ -97,22 +94,4 @@ A small recipe tracking application, users can search for, track and add recipes
 
 [Back To Top](#Portfolio)
 
-### Ultimate React Course 2023
 
-Building upon my knowledge of JS with one of the worlds most popular framework libraries the ultimate react course was used to up my JS skills to the next level
-
-[Back To Top](#Portfolio)
-
-### NodeJS_Complete_Course_2023
-
-Yet another course by Jonas Schmedtmann to reinforce my knowledge of JS, I wanted to primarily focus on webdev, but having a fundamental knowledge on the back end is, I think, essential
-to becoming a better programmer as it helps my build better code on both sides of the fence
-
-[Back To Top](#Portfolio)
-
-### SECTION 3 - Portfolio Works
-
-And now we reach the next part of the portfolio, this is the really heavy lifter part of this portfolio, as it showcases works That I have done alone or with a group that is not part of any
-course, completely designed from the ground up and executed to showcase the talents I have accured to this point.
-
-[Back To Top](#Portfolio)
