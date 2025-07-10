@@ -9,7 +9,7 @@
    - [Copywrite / Licensing](#copywrite-/-licensing)
    - [Overall Section Layout](#overall-section-layout)
 
-2. [Portfolio Projects](#portfolio-projects)
+2. [Project Showcase](#project-showcase)
    - [SECTION 1 - MISC PROJECTS](#section-1---misc-projects)
    - [SECTION 2 - COURSE PROJECTS](#section-2---course-projects)
       - [Complete Javascript Course 2023](#complete-javascript-course-2023)
@@ -55,13 +55,15 @@ showcase that I am job ready, They will be split between raw JS / React JS / Nod
 
 [Back To Top](#Portfolio)
 
-## Portfolio Projects
+## Project Showcase
 
-### SECTION 1 - Misc Projects
+### SECTION 1 - Misc project
 
-Directory leading to Small and simple programs and scripts I have written in my free time, these range from stop watches to calculators or even just small scripts to make code easier to setup / use!
+This is a section dedicated to small sample projects or just quick do it in a day kind of projects i thought of making or was interested in giving a quick shot at. These are by no means porfolio worthy, but I like coding, it's cathartic and it's better to show all the work i do instead of just leave it hidden from everyone!
 
-#### [MISC PROJECTS](https://github.com/ShaAnder/Misc_Portfolio_Projects)
+#### [Scientific Calculator](https://github.com/ShaAnder/calculator)
+
+A fully functioning scientific calculator that the user can actively make calculations on.
 
 ### SECTION 2 - Course Projects 
 
@@ -74,19 +76,19 @@ initially course projects, they all have the potential for becoming real world a
 
 ### Complete Javascript Course 2023
 
-### [Pig Game](https://github.com/ShaAnder/pig-game)
+#### [Pig Game](https://github.com/ShaAnder/pig-game)
 
 A simple JS browser based dice playing game
 
-### [Bankist](https://github.com/ShaAnder/bankist)
+#### [Bankist](https://github.com/ShaAnder/bankist)
 
 Mock banking application / website
 
-### [Mapty](https://github.com/ShaAnder/mapty)
+#### [Mapty](https://github.com/ShaAnder/mapty)
 
 Mock website for tracking workouts on a map
 
-### [Forkify](https://github.com/ShaAnder/forkify)
+#### [Forkify](https://github.com/ShaAnder/forkify)
 
 A small recipe tracking application, users can search for, track and add recipes as well as being able to calculate ingredients based on serving amounts and more!
 
